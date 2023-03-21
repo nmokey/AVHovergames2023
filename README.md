@@ -1,7 +1,8 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub contributors](https://img.shields.io/github/contributors/nmokey/AVHovergames2023)](https://github.com/nmokey/AVHovergames2023/graphs/contributors)
 [![GitHub repo file count](https://img.shields.io/github/directory-file-count/nmokey/AVHovergames2023)](https://github.com/nmokey/AVHovergames2023)
-![GitHub](https://img.shields.io/github/license/nmokey/AVHovergames2023)
+[![GitHub](https://img.shields.io/github/license/nmokey/AVHovergames2023)](https://github.com/nmokey/AVHovergames2023/blob/main/LICENSE.md)
+[![Discord](https://img.shields.io/discord/1039022504372609104?label=discord&logo=discord&logoColor=white&style=flat)](https://discord.gg/fFHFNwH9DK)
 
 # Amador Valley Hovergames 2023
 This repo contains the code written by the Software team for the [NPX Hovergames Challenge 3](https://www.hackster.io/contests/nxp-hovergames-challenge-3): Sustainable Food Ecosystems with Drones and Rovers. This README is a quick summary of the project from a Software point of view. See our [Hackster documentation](https://hackster.io/amador-valley-hovergames-team/amador-valley-hovergames-project-2023-a6fee3) for full project and submission details.
